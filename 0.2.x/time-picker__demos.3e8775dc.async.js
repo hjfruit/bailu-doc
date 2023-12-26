@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_fruits_chain_react_bailu=self.webpackChunk_fruits_chain_react_bailu||[]).push([[9673],{50502:function(e,n,_){_.r(n);var E=_(6516),t=_(26713),u=_(67294),s=_(31081),a=_(85893),c=function(){return(0,a.jsx)(t.Z,{direction:"vertical",style:{width:"100%"},children:(0,a.jsx)(s.TimePicker,{onChange:function(i){console.log(i)}})})};n.default=c}}]);
